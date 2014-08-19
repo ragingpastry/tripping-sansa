@@ -1,0 +1,4 @@
+#! /bin/bash
+
+#Restore a ratpoison frame setup
+ratpoison -c "frestore `cat $1`"
