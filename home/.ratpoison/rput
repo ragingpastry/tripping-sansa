@@ -1,4 +1,0 @@
-#! /bin/bash
-
-#Save current frame setup to file
-ratpoison -c fdump >$1
