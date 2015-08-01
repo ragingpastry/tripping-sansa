@@ -7,8 +7,6 @@ set tabstop=4
 set shiftwidth=4
 set expandtab
 syntax on
-map <F1> :tabp<CR>
-map <F2> :tabn<CR>
 map <F4> :NERDTreeToggle<CR>
 filetype on
 filetype plugin indent on
