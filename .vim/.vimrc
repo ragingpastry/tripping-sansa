@@ -1,11 +1,4 @@
-set rtp+=~/.vim/bundle/vundle/
-call vundle#rc()
-
-Bundle 'gmarik/vundle'
-Bundle 'nerdtree'
-
-
-
+execute pathogen#infect()
 
 filetype plugin indent on
 
