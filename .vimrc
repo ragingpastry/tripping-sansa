@@ -3,6 +3,9 @@ call pathogen#incubate()
 call pathogen#helptags()
 set ls=2
 set number
+set tabstop=4
+set shiftwidth=4
+set expandtab
 syntax on
 map <F1> :tabp<CR>
 map <F2> :tabn<CR>
