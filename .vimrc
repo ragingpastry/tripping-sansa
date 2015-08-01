@@ -10,4 +10,4 @@ map <F4> :NERDTreeToggle<CR>
 filetype on
 filetype plugin indent on
 let NERDTreeDirArrows=0
-colorscheme coffee 
+colorscheme neon
